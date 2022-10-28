@@ -1,16 +1,20 @@
 @import url(//fonts.googleapis.com/css?family=Open+Sans);
 
+* {
+    box-sizing: border-box;   
+}
+
 html {
     width: 33vw;
 }
 
 body {
-font-family: 'Open Sans', sans-serif;
+     font-family: 'Open Sans', sans-serif;
 }
 
 header {
     background-image: url("../images/apple-pie.jpg");
-    height: 85px;
+    height: 275px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0px -30px;
